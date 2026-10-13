@@ -2,7 +2,7 @@ from pyscript import display, document
 
 def add_member(event):
 
-    members = {
+ members = {
     "krishna kiyomi pascua",
     "adriana averilla",
     "anthony cases",
@@ -44,3 +44,9 @@ if full_name in members:
 else:
     members.add(full_name)
     display(f"Member '{full_name}' added successfully.")
+
+    grade 8 =
+    grade 9 =
+    grade 10 =
+    grade 11 =
+    grade 12 =
